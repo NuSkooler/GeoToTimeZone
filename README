@@ -1,0 +1,7 @@
+Installation:
+	Currently None
+
+Available Tools:
+	-	geonames_parse.py: Parses and transforms city-to-timezone data such as from GeoNames.org
+		This tool can be used for example to convert a citiesXXXX.txt from http://download.geonames.org/export/dump/
+		to a MongoDB import .json script
